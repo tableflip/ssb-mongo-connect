@@ -1,4 +1,4 @@
-# ssb-mongo-connect
+# ssb-mongo-connect [![Build Status](https://travis-ci.org/tableflip/ssb-mongo-connect.svg?branch=master)](https://travis-ci.org/tableflip/ssb-mongo-connect) [![dependencies Status](https://david-dm.org/tableflip/ssb-mongo-connect/status.svg)](https://david-dm.org/tableflip/ssb-mongo-connect)
 
 Connect ssb messages to mongo collections.
 
