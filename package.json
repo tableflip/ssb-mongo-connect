@@ -1,0 +1,37 @@
+{
+  "name": "ssb-mongo-connect",
+  "version": "0.0.0",
+  "description": "Connect ssb messages to mongo collections.",
+  "main": "index.js",
+  "scripts": {
+    "pretest": "standard",
+    "test": "tape test.js"
+  },
+  "author": "Alan Shaw",
+  "license": "AGPL-3.0",
+  "dependencies": {
+    "async": "^2.4.1",
+    "pull-abortable": "^4.1.1",
+    "pull-stream": "^3.6.0"
+  },
+  "devDependencies": {
+    "mongojs": "^2.4.0",
+    "scuttlebot": "^10.0.5",
+    "standard": "^10.0.2",
+    "tape": "^4.6.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tableflip/ssb-mongo-connect.git"
+  },
+  "keywords": [
+    "ssb",
+    "scuttlebutt",
+    "scuttlebot",
+    "mongo"
+  ],
+  "bugs": {
+    "url": "https://github.com/tableflip/ssb-mongo-connect/issues"
+  },
+  "homepage": "https://github.com/tableflip/ssb-mongo-connect#readme"
+}
