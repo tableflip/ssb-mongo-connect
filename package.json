@@ -1,6 +1,6 @@
 {
   "name": "ssb-mongo-connect",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Connect ssb messages to mongo collections.",
   "main": "index.js",
   "scripts": {
